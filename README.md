@@ -2,4 +2,4 @@
 
 - 📚 Production Engineering Student at University Center of FEI.
 - 😄 Pronouns: ... He/Him
-- 🌱 I’m currently learning ... JavaScript <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width = "18" height = "18"> </a>
+- 🌱 I’m currently learning ... Java <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" width = "27" height = "27"> </a>
